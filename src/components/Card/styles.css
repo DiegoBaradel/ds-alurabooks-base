@@ -1,0 +1,10 @@
+.container-card{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+    width: 725px;
+    height: 266px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px 0px #00000040;
+}
